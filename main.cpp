@@ -3,6 +3,6 @@ using namespace std;
 int main()
 {
     int n; cin>>n;
-    cout<<n+10;
+    cout<<"ans: "<<n+10;
     return 0;
 }
